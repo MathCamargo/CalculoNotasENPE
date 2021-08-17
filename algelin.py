@@ -8,10 +8,11 @@ def soma_e_peso_algelin(lista):
         somatorio_das_notas += item
     return somatorio_das_notas
 
-
+########### Inserir suas notas aqui ###########
 P1 = 0
 P2 = 0
 P3 = 0
+###############################################
 lista_com_as_notas = [P1, P2, P3]
 
 MF= soma_e_peso_algelin(lista_com_as_notas) / 10
