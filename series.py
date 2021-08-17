@@ -1,3 +1,4 @@
+########### Inserir suas notas aqui ###########
 AVS1 = 0
 AVS2 = 0
 NAVS = (AVS1 + AVS2) / 2
@@ -19,6 +20,7 @@ S9 = 0
 S10 = 0
 S11 = 0
 S12 = 0
+###############################################
 
 lista_simulado = [S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12]
 lista_simulado_soma = 0
