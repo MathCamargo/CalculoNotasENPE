@@ -4,6 +4,7 @@ def soma_prog2(lista):
         SomatorioDeNotas += item
     return SomatorioDeNotas
 
+########### Inserir suas notas aqui ###########
 S1 = 0
 S2 = 0
 S3 = 0
@@ -15,6 +16,8 @@ S8 = 0
 S9 = 0
 S10 = 0
 S11 = 0
+###############################################
+
 lista_com_as_notas = [S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11]
 
 MF = soma_prog2(lista_com_as_notas)/len(lista_com_as_notas)
