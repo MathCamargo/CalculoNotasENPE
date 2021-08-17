@@ -10,11 +10,13 @@ def soma_e_peso_intrinf(lista):
         somatorio_das_notas += item
     return somatorio_das_notas
 
-
+########### Inserir suas notas aqui ###########
 N_TRAB = 0
 N_PROVA1 = 0
 N_PROVA2 = 0
 N_PROVA3 = 0
+###############################################
+
 lista_com_notas = [N_TRAB, N_PROVA1, N_PROVA2, N_PROVA3]
 
 MF = soma_e_peso_intrinf(lista_com_notas)
